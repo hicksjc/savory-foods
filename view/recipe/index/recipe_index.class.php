@@ -24,7 +24,7 @@ class RecipeIndex extends RecipeIndexView
 
 
         if (strpos($image, "http://") === false AND strpos($image, "https://") === false) {
-            $image = BASE_URL . '/' . BOOK_IMG . $image;
+            $image = BASE_URL . '/' . RECIPE_IMG . $image;
         }
         ?>
 
