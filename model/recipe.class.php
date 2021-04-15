@@ -6,10 +6,10 @@
  * Description:
  */
 
-class recipe
+class Recipe
 {
 
-    //private properties of a Book object
+    //private properties of a Recipe object
     private $id, $title, $description, $category, $price, $ingredients, $image;
 
     //the constructor that initializes all properties
