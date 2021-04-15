@@ -6,7 +6,7 @@
  * Description:
  */
 
-class recipe_index_view
+class RecipeIndexView
 {
 
 }
